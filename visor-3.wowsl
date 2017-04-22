@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>8.7</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <AutoPlayVideo>false</AutoPlayVideo>
+            <Captions>true</Captions>
+            <CaptionsEffect>parallax</CaptionsEffect>
+            <Controls>true</Controls>
+            <FontSize>25</FontSize>
+            <FullScreen>false</FullScreen>
+            <GalleryName>visor-3</GalleryName>
+            <GallerySuffix>1</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>rotate</ImageEffect>
+            <ImageFillColor>#000000</ImageFillColor>
+            <ImageHeight>850</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>false</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>C:/Program Files/WOW Slider/templates/backgnd/puzzle/</ImageTemplate>
+            <ImageTemplateName>Puzzle</ImageTemplateName>
+            <ImageWidth>600</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>true</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishFileName>C:/Users/maq1/Documents/git/app3k-git/wowslider.html</PublishFileName>
+            <PublishIndex>wowslider.html</PublishIndex>
+            <PublishPath>C:/Users/maq1/Documents/git/app3k-git</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>file</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>1</ShowBullets>
+            <ShowControls>false</ShowControls>
+            <ShowTooltips>1</ShowTooltips>
+            <SizeStyle>1</SizeStyle>
+            <SlideshowDelay>20</SlideshowDelay>
+            <SlideshowDuration>20</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>false</StopOnHover>
+            <SwipeSupport>2</SwipeSupport>
+            <TemplateColor>#09a4cb</TemplateColor>
+            <TemplateFont>Didact Gothic</TemplateFont>
+            <TemplateName>puzzle</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <noFrame>0</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>C:/Users/maq1/Documents/git/app3-git/imagenes/visual p.jpg</url>
+                <title>visual p</title>
+                <filesize>22165</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/maq1/Documents/git/app3-git/imagenes/sql p.jpg</url>
+                <title>sql p</title>
+                <filesize>10005</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/maq1/Documents/git/app3-git/imagenes/sist operativos p.jpg</url>
+                <title>sist operativos p</title>
+                <filesize>210899</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/maq1/Documents/git/app3-git/imagenes/redes p.jpg</url>
+                <title>redes p</title>
+                <filesize>11104</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/maq1/Documents/git/app3-git/imagenes/redes compu p.png</url>
+                <title>redes compu p</title>
+                <filesize>126506</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/maq1/Documents/git/app3-git/imagenes/programarJava p.jpg</url>
+                <title>programarJava p</title>
+                <filesize>384753</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/maq1/Documents/git/app3-git/imagenes/mantenimiento p.jpg</url>
+                <title>mantenimiento p</title>
+                <filesize>74970</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/maq1/Documents/git/app3-git/imagenes/java p.jpg</url>
+                <title>java p</title>
+                <filesize>32147</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/maq1/Documents/git/app3-git/imagenes/estructura p.PNG</url>
+                <title>estructura p</title>
+                <filesize>328740</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/maq1/Documents/git/app3-git/imagenes/comunicaciones p.png</url>
+                <title>comunicaciones p</title>
+                <filesize>224244</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/maq1/Documents/git/app3-git/imagenes/asp p.jpg</url>
+                <title>asp p</title>
+                <filesize>111337</filesize>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>
