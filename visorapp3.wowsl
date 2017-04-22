@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>8.7</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <AutoPlayVideo>false</AutoPlayVideo>
+            <Captions>true</Captions>
+            <CaptionsEffect>parallax</CaptionsEffect>
+            <Controls>true</Controls>
+            <FontSize>28</FontSize>
+            <FullScreen>false</FullScreen>
+            <GalleryName>visorapp3</GalleryName>
+            <GallerySuffix>1</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>lines,dribbles</ImageEffect>
+            <ImageFillColor>#000000</ImageFillColor>
+            <ImageHeight>360</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>false</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>C:/Program Files (x86)/WOW Slider/templates/backgnd/graffito/</ImageTemplate>
+            <ImageTemplateName>Graffito</ImageTemplateName>
+            <ImageWidth>640</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>true</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishIndex>wowslider.html</PublishIndex>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>file</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>1</ShowBullets>
+            <ShowControls>false</ShowControls>
+            <ShowTooltips>1</ShowTooltips>
+            <SizeStyle>1</SizeStyle>
+            <SlideshowDelay>20</SlideshowDelay>
+            <SlideshowDuration>20</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>false</StopOnHover>
+            <SwipeSupport>2</SwipeSupport>
+            <TemplateColor>#DDF16E</TemplateColor>
+            <TemplateFont>Averia Sans Libre</TemplateFont>
+            <TemplateName>graffito</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <noFrame>0</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>J:/DAM/SEGUNDO PARCIAL/APLICACIONES/app3/imagenes/ASP.NET-4.0-P.PNG</url>
+                <title>ASP.NET-4.0-P</title>
+                <filesize>111337</filesize>
+            </Image>
+            <Image>
+                <url>J:/DAM/SEGUNDO PARCIAL/APLICACIONES/app3/imagenes/COMUNICACIONES Y REDES DE COMPUTADORES-P.PNG</url>
+                <title>COMUNICACIONES Y REDES DE COMPUTADORES-P</title>
+                <filesize>281651</filesize>
+            </Image>
+            <Image>
+                <url>J:/DAM/SEGUNDO PARCIAL/APLICACIONES/app3/imagenes/Estructuras de datos-P.png</url>
+                <title>Estructuras de datos-P</title>
+                <filesize>12353688</filesize>
+            </Image>
+            <Image>
+                <url>J:/DAM/SEGUNDO PARCIAL/APLICACIONES/app3/imagenes/Fundamentos de redes-P.png</url>
+                <title>Fundamentos de redes-P</title>
+                <filesize>11092455</filesize>
+            </Image>
+            <Image>
+                <url>J:/DAM/SEGUNDO PARCIAL/APLICACIONES/app3/imagenes/Java como programar-P.png</url>
+                <title>Java como programar-P</title>
+                <filesize>15387926</filesize>
+            </Image>
+            <Image>
+                <url>J:/DAM/SEGUNDO PARCIAL/APLICACIONES/app3/imagenes/MANTENIMIENTO-Y-REPARACION-DE-COMPUTADORAS-P.png</url>
+                <title>MANTENIMIENTO-Y-REPARACION-DE-COMPUTADORAS-P</title>
+                <filesize>16590098</filesize>
+            </Image>
+            <Image>
+                <url>J:/DAM/SEGUNDO PARCIAL/APLICACIONES/app3/imagenes/PROGRAMACION AVANZADA CON SQL SERVER 2005.png</url>
+                <title>PROGRAMACION AVANZADA CON SQL SERVER 2005</title>
+                <filesize>12749366</filesize>
+            </Image>
+            <Image>
+                <url>J:/DAM/SEGUNDO PARCIAL/APLICACIONES/app3/imagenes/PROGRAMACION-EN-JAVA-P.png</url>
+                <title>PROGRAMACION-EN-JAVA-P</title>
+                <filesize>16634417</filesize>
+            </Image>
+            <Image>
+                <url>J:/DAM/SEGUNDO PARCIAL/APLICACIONES/app3/imagenes/REDES-DE-COMPUTADORAS-P.png</url>
+                <title>REDES-DE-COMPUTADORAS-P</title>
+                <filesize>14834742</filesize>
+            </Image>
+            <Image>
+                <url>J:/DAM/SEGUNDO PARCIAL/APLICACIONES/app3/imagenes/SISTEMAS-OPERATIVOS-P.png</url>
+                <title>SISTEMAS-OPERATIVOS-P</title>
+                <filesize>12046100</filesize>
+            </Image>
+            <Image>
+                <url>J:/DAM/SEGUNDO PARCIAL/APLICACIONES/app3/imagenes/Visual.jpg</url>
+                <title>Visual</title>
+                <filesize>58913</filesize>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>
